@@ -45,7 +45,7 @@ It's imperative that learning and creating can continue when educational institu
 
 ## Demo video
 
-[![Watch the video](./images/thumb_video.jpg)](https://youtu.be/Vbqrms6CvsA)
+[![Watch the video](./images/thumb_video.png)](https://youtu.be/Vbqrms6CvsA)
 
 ## The architecture
 
