@@ -142,11 +142,11 @@ We use [SemVer](http://semver.org/) for versioning. For the versions available, 
 
 ![Authors](./images/Authors_Agrofate.jpg)
 
-- **Alexandre Russi Jr.** - _Initial work_ - [LinkedIn](https://www.linkedin.com/in/alexandrerussi/)
-- **Gabriel B. Cardoso** - _Initial work_ - [LinkedIn](https://www.linkedin.com/in/gabriel-barbosa-cardoso-98b479a7/)
-- **Guilherme G. Guimarães** - _Initial work_ - [LinkedIn](https://www.linkedin.com/in/guilhermegguimaraes/)
-- **Leonardo G. J. Gonçalez** - _Initial work_ - [LinkedIn](https://www.linkedin.com/in/leonardo-gomes-jorge-gon%C3%A7alez-4910a7141/)
-- **Nathan de Moraes** - _Initial work_ - [LinkedIn](https://www.linkedin.com/in/nathan-de-moraes-aa6302143/)
+- **Alexandre Russi Jr.** - _UX & Mobile Development_ - [LinkedIn](https://www.linkedin.com/in/alexandrerussi/)
+- **Gabriel B. Cardoso** - _Mobile & Software Development_ - [LinkedIn](https://www.linkedin.com/in/gabriel-barbosa-cardoso-98b479a7/)
+- **Guilherme G. Guimarães** - _Business & Marketing_ - [LinkedIn](https://www.linkedin.com/in/guilhermegguimaraes/)
+- **Leonardo G. J. Gonçalez** - _Cloud Architect_ - [LinkedIn](https://www.linkedin.com/in/leonardo-gomes-jorge-gon%C3%A7alez-4910a7141/)
+- **Nathan de Moraes** - _Product Development_ - [LinkedIn](https://www.linkedin.com/in/nathan-de-moraes-aa6302143/)
 
 ## License
 
