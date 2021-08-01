@@ -21,6 +21,7 @@ Agrofate, a precision farming project aiming to develop accessible technologies 
 - [Project roadmap](#project-roadmap)
 - [Getting started](#getting-started)
 - [Built with](#built-with)
+- [Deployment/Pilot](#pilot)
 - [Authors](#authors)
 
 ## Short description
@@ -145,6 +146,12 @@ In the second phase, we will implement our own system for climate change, bringi
 - [Python](https://www.python.org/) - Language programming for connect with database
 - [Flutter](https://flutter.dev/) - SDK, natively compiled applications for mobile, web, and desktop from a single codebase
 - Microcontroller and sensors - To detect crop ph and moisture in real time
+
+## Deployment/Pilot <a name="Pilot"></a>
+Agrofate created the app and the MVP is being installed and tested on a family farm located in the metropolitan region of São Paulo, Brazil.
+* Start Date: July 31th, 2021
+* Region: Brazil (São Paulo, Biritiba Mirim)
+* Currently Situation: OnGoing. Collecting data.
 
 ## Authors
 
