@@ -43,6 +43,7 @@ The use of sensors, cloud and real-time services, as well as applications can br
 Agrofate created a set of innovative solutions for these family farmers. With our mobile app the producer will be able to view the detailed weather forecasting, recommendations for better decision-making and plan your crops in a personalized way.
 In addition, through our sensory equipment, we inform important data on acidity, moisture and soil nutrients.
 As a differential, in relation to competitors, we align recommendations regarding climate and soil, based on real data.
+With this, the farmer can rely on this information and control the use of water in irrigation and other products in other processes.
 
 ## Demo video
 
