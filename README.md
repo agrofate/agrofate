@@ -14,22 +14,24 @@ _Read this in other languages: [English](README.md), [português](./docs/README.
 
 ## Contents
 
-1. [Short description](#short-description)
-  - [What's the problem?](#whats-the-problem)
-  - [How can technology help?](#how-can-technology-help)
-  - [The idea](#the-idea)
-- [Demo video](#demo-video)
-- [The architecture](#the-architecture)
-- [Long description](#long-description)
-- [Project roadmap](#project-roadmap)
-- [Getting started](#getting-started)
-- [Live demo](#live-demo)
-- [Built with](#built-with)
-- [Contributing](#contributing)
-- [Versioning](#versioning)
-- [Authors](#authors)
-- [License](#license)
-- [Acknowledgments](#acknowledgments)
+- [Agrofate](#submission-or-project-name)
+  - [Contents](#contents)
+  - [Short description](#short-description)
+    - [What's the problem?](#whats-the-problem)
+    - [How can technology help?](#how-can-technology-help)
+    - [The idea](#the-idea)
+  - [Demo video](#demo-video)
+  - [The architecture](#the-architecture)
+  - [Long description](#long-description)
+  - [Project roadmap](#project-roadmap)
+  - [Getting started](#getting-started)
+  - [Live demo](#live-demo)
+  - [Built with](#built-with)
+  - [Contributing](#contributing)
+  - [Versioning](#versioning)
+  - [Authors](#authors)
+  - [License](#license)
+  - [Acknowledgments](#acknowledgments)
 
 ## Short description
 
@@ -93,21 +95,17 @@ Currently, the MVP is being installed and tested on a family farm located in the
 
 ## Project roadmap
 
-Currently, the project has the following functionalities in operation:
+The project currently does the following things.
 
-- Create and change gantry;
-- Create and change crops;
-- Create and change fertilizers;
-- Create and change pesticides;
-- Registration in time of ph values and soil moisture;
-- The **IBM Cloud Foundry** app connects with the **IBM DB2** and register the real time data;
-- Get the data from the **Weather Company API** and shows on app daily and hourly forecast.
+- Feature 1
+- Feature 2
+- Feature 3
 
-First, we want to deploy our MVP application in partnership with some green belt farmers. Afterwards, finalize the system and intelligence recommendations from meteorological, phenological and sensory data with the help of **IBM Watson**.
+It's in a free tier IBM Cloud Kubernetes cluster. In the future we plan to run on Red Hat OpenShift, for example.
 
-In the second phase, we will implement our own system for climate change, bringing more precision and security to the farmer, with the issuance of alerts based on **IBM Push Notifications**.
+See below for our proposed schedule on next steps after Call for Code 2021 submission.
 
-<!-- ![Roadmap](./images/roadmap.jpg) -->
+![Roadmap](./images/roadmap.jpg)
 
 ## Getting started
 
@@ -122,9 +120,17 @@ In this section you add the instructions to run your project on your local machi
 - Request a Weather Company API key
 
 **Run It**
-- Download the Github code
-- Install flutter
---- Here some links for this step:
+1. Download the Github code
+2. Install flutter:
+- Here some links for this step:
+-   https://flutter.dev/docs/get-started/install/windows
+-   https://www.tutorialspoint.com/flutter/flutter_installation.htm
+-   https://www.youtube.com/watch?v=tun0HUHaDuE
+-   https://www.youtube.com/watch?v=9GuzMsZQUYs
+3. Running the app:
+<code>flutter run --no-sound-null-safety</code>
+4. Building packages:
+<code>flutter build --no-sound-null-safety</code>
 
 ## Built with
 
