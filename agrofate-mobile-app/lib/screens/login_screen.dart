@@ -11,6 +11,7 @@ import 'package:flutter/material.dart';
 
 // import 'package:flutter/services.dart';
 import 'package:agrofate_mobile_app/utilities/constants.dart';
+import 'package:flutter_session/flutter_session.dart';
 import 'package:http/http.dart' as http;
 
 import 'package:shared_preferences/shared_preferences.dart';
@@ -47,9 +48,10 @@ class _LoginScreenState extends State<LoginScreen> {
               onPressed: () {
                 Navigator.of(context).pop();
                 if(mensagem[0] != "Senha incorreta"){
-                  Navigator.push(
+                  Navigator.pushAndRemoveUntil(
                     context,
                     MaterialPageRoute(builder: (context) => RegisterScreen()),
+                    ModalRoute.withName("/"),
                   );
                 }                
               },
@@ -80,6 +82,7 @@ class _LoginScreenState extends State<LoginScreen> {
       prefs.setString('id_user', response_login[0].toString());
       prefs.setString('email', email);
       prefs.setString('senha', senha);
+      await FlutterSession().set('token', email);
       String parametros_sessao = "?id_usuario="+response_login[0].toString();
       http.Response url_teste_sessao = await http.post(
           "https://getstartedpython-sweet-hyrax-ht.mybluemix.net/update-user-sessao"+parametros_sessao);
