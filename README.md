@@ -88,17 +88,15 @@ The freemium business model is the foundation of Agrofate. This allows for a gre
 
 ### Sustainable Development Goals
 
-We are committed to the Sustainable Development Goals.
+We are committed to the Sustainable Development Goals from the UN.
 
-We produce sensory equipment and mobile technologies for sustainable and more productive agriculture.
+1. **Goal 2 | Zero Hunger and Sustainable Agriculture:** we produce sensory equipment and mobile technologies for sustainable and more productive agriculture.
 
-We recommend the amount of water required and the ideal time for crop irrigation, aiming at the conscious use of water resources.
+2. **Goal 6 | Clean Water and Sanitation:** we recommend the amount of water required and the ideal time for crop irrigation, aiming at the conscious use of water resources.
 
-We develop truly accessible solutions aimed at family farmers, the class most affected by the lack of financial resources.
+3. **Reduced Inequalities:** we develop truly accessible solutions aimed at family farmers, the class most affected by the lack of financial resources.
 
-Currently, the MVP is being installed and tested on a family farm located in the metropolitan region of São Paulo, Brazil.
-
-**Agrofate, developing a more conscious future.**
+**_Agrofate, developing a more conscious future._**
 
 ## Project roadmap
 
