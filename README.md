@@ -118,19 +118,23 @@ In this section you add the instructions to run your project on your local machi
 **Prerequisite**
 - Register for an IBM Cloud account.
 - Request a Weather Company API key
+- Install Arduino IDE (https://www.arduino.cc/en/software)
 
 **Run It**
-* Download the Github code
-* Install flutter:
-01. Here some links for this step:
--   https://flutter.dev/docs/get-started/install/windows
--   https://www.tutorialspoint.com/flutter/flutter_installation.htm
--   https://www.youtube.com/watch?v=tun0HUHaDuE
--   https://www.youtube.com/watch?v=9GuzMsZQUYs
-* Running the app:<br />
+01. Download the Github code
+02. Install flutter:
+03. Here some links for this step:
+*   https://flutter.dev/docs/get-started/install/windows
+*   https://www.tutorialspoint.com/flutter/flutter_installation.htm
+*   https://www.youtube.com/watch?v=tun0HUHaDuE
+*   https://www.youtube.com/watch?v=9GuzMsZQUYs
+04. Running the app:<br />
 <code>flutter run --no-sound-null-safety</code>
-* Building packages:<br />
+05. Building packages:<br />
 <code>flutter build --no-sound-null-safety</code>
+
+_MicroController_
+06. After installed the Arduino IDE, open the Microcontroller_Code_Agrofate.ino (https://github.com/agrofate/agrofate/blob/main/agrofate-microcontroller/Microcontroller_Code_Agrofate.ino)
 
 ## Built with
 
