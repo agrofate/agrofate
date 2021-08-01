@@ -115,6 +115,15 @@ In this section you add the instructions to run your project on your local machi
 - [sample-angular-app](./sample-angular-app/)
 - [Explore other projects](https://github.com/upkarlidder/ibmhacks)
 
+**Prerequisite**
+- Register for an IBM Cloud account.
+- Request a Weather Company API key
+
+**Run It**
+- Download the Github code
+- Install flutter
+--- Here some links for this step:
+
 ## Built with
 
 - [IBM DB2 Cloud](https://cloud.ibm.com/catalog/services/db2) - The MySQL database used
