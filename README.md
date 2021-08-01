@@ -45,7 +45,9 @@ The use of sensors, cloud and real-time services, as well as applications can br
 
 ### The idea
 
-It's imperative that learning and creating can continue when educational institutions have to shift the way they teach in times of crises, such as the COVID-19 pandemic. Providing a set of open source tools, backed by IBM Cloud and Watson Services, will enable educators to more easily make content available for their students.
+Agrofate created a set of innovative solutions for these family farmers. With our mobile app the producer will be able to view the detailed weather forecasting, recommendations for better decision-making and plan your crops in a personalized way.
+In addition, through our sensory equipment, we inform important data on acidity, moisture and soil nutrients.
+As a differential, in relation to competitors, we align recommendations regarding climate and soil, based on real data.
 
 ## Demo video
 
