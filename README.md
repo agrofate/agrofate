@@ -120,16 +120,16 @@ In this section you add the instructions to run your project on your local machi
 - Request a Weather Company API key
 
 **Run It**
-1. Download the Github code
-2. Install flutter:
-- Here some links for this step:
+* Download the Github code
+* Install flutter:
+01. Here some links for this step:
 -   https://flutter.dev/docs/get-started/install/windows
 -   https://www.tutorialspoint.com/flutter/flutter_installation.htm
 -   https://www.youtube.com/watch?v=tun0HUHaDuE
 -   https://www.youtube.com/watch?v=9GuzMsZQUYs
-3. Running the app:
+* Running the app:<br />
 <code>flutter run --no-sound-null-safety</code>
-4. Building packages:
+* Building packages:<br />
 <code>flutter build --no-sound-null-safety</code>
 
 ## Built with
