@@ -128,10 +128,10 @@ You can find a running system to test at [callforcode.mybluemix.net](http://call
 
 - [IBM DB2 Cloud](https://cloud.ibm.com/catalog/services/db2) - The MySQL database used
 - [IBM Cloud Foundry](https://cloud.ibm.com/login?redirect=%2Fcloudfoundry%2Foverview) - Connection and requests with database
-- [IBM API Connect](https://cloud.ibm.com/catalog?search=api%20connect#search_results) - The web framework used
-- [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
-- [Maven](https://maven.apache.org/) - Dependency management
-- [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
+- [IBM The Weather Company API](https://www.ibm.com/products/weather-company-data-packages) - The API for daily and hourly forecast weather
+- [Python](https://www.python.org/) - Language programming for connect with database
+- [Flutter](https://flutter.dev/) - SDK, natively compiled applications for mobile, web, and desktop from a single codebase
+- Microcontroller and sensors - To detect crop ph and moisture in real time
 
 ## Contributing
 
