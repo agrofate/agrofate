@@ -41,7 +41,7 @@ Weather forecasting, irrigation and soil quality are very important characterist
 
 ### How can technology help?
 
-Schools and teachers can continue to engage with their students through virtual classrooms, and even create interactive spaces for classes. As parents face a new situation where they may need to homeschool their children, finding appropriate online resources is important as well.
+The use of sensors, cloud and real-time services, as well as applications can bring resources to these producers to make better decisions about what to do to have an always productive and quality crop.
 
 ### The idea
 
