@@ -66,28 +66,34 @@ Agriculture is responsible for consuming 70% of the world's water resources.
 
 Talking to some family farmers in São Paulo, we’ve identified some of the most common problems of small producers:
 
-The lack of a better weather forecast leaves the farmer unprepared for climate change;
+1. The lack of a better weather forecast leaves the farmer unprepared for climate change;
+2. The alteration and lack of control of soil moisture, pH and nutrients cause the harvest to generate losses;
+3. Finally, ineffective planning of fertilizer and defensive application.
 
-The alteration and lack of control of soil moisture, pH and nutrients cause the harvest to generate losses;
-Finally, ineffective planning of fertilizer and defensive application.
-Thinking about these problems, we’ve created a set of innovative solutions for these family farmers.
-With our mobile app the producer will be able to view the
-detailed weather forecasting, recommendations for better decision-making;
-and plan your crops in a personalized way.
-In addition, through our sensory equipment, we inform important data on acidity, moisture and soil nutrients.
+Thinking about these problems, we’ve created a set of innovative solutions for these family farmers.With our mobile app the producer will be able to view the:
+1. detailed weather forecasting, recommendations for better decision-making;
+2. and plan your crops in a personalized way.
+3. In addition, through our sensory equipment, we inform important data on acidity, moisture and soil nutrients.
 As a differential, in relation to competitors, we align recommendations regarding climate and soil, based on real data.
+
 Agrofate's technical architecture uses 3 IBM technologies:
-The Weather Company API for daily and hourly weather forecast;
-IBM Cloud Foundry for database connection and requests;
-and IBM Db2 for data storage across the entire environment and application.
-The freemium business model is the foundation of Agrofate. This allows for a greater recurrence and decreases the barrier of market entry. We have 3 subscription plans, free, basic and premium.
-In the premium plan, the family farmer can purchase our equipment and have full access to the app.
+1. The Weather Company API for daily and hourly weather forecast;
+2. IBM Cloud Foundry for database connection and requests;
+3. and IBM Db2 for data storage across the entire environment and application.
+
+The freemium business model is the foundation of Agrofate. This allows for a greater recurrence and decreases the barrier of market entry. We have 3 subscription plans, free, basic and premium. In the premium plan, the family farmer can purchase our equipment and have full access to the app.
+
 We are committed to the Sustainable Development Goals.
+
 We produce sensory equipment and mobile technologies for sustainable and more productive agriculture.
+
 We recommend the amount of water required and the ideal time for crop irrigation, aiming at the conscious use of water resources.
+
 We develop truly accessible solutions aimed at family farmers, the class most affected by the lack of financial resources.
+
 Currently, the MVP is being installed and tested on a family farm located in the metropolitan region of São Paulo, Brazil.
-Agrofate, developing a more conscious future.
+
+## Agrofate, developing a more conscious future.
 
 
 [More detail is available here](./docs/DESCRIPTION.md)
