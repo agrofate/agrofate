@@ -14,7 +14,7 @@ _Read this in other languages: [English](README.md), [português](./docs/README.
 
 ## Contents
 
-1. [Short description](#short-description)
+- [Short description](#short-description)
   - [What's the problem?](#whats-the-problem)
   - [How can technology help?](#how-can-technology-help)
   - [The idea](#the-idea)
