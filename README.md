@@ -59,10 +59,15 @@ It's imperative that learning and creating can continue when educational institu
 ## Long description
 
 Agricultural production is directly influenced by sun, rain, wind and temperature. Thus, climate change impacts agricultural processes on the planet.
+
 However, what not everyone realizes is that agriculture also influences temperatures on Earth.
+
 Agriculture is responsible for consuming 70% of the world's water resources.
+
 Talking to some family farmers in São Paulo, we’ve identified some of the most common problems of small producers:
+
 The lack of a better weather forecast leaves the farmer unprepared for climate change;
+
 The alteration and lack of control of soil moisture, pH and nutrients cause the harvest to generate losses;
 Finally, ineffective planning of fertilizer and defensive application.
 Thinking about these problems, we’ve created a set of innovative solutions for these family farmers.
