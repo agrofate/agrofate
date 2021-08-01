@@ -10,7 +10,7 @@ _Read this in other languages: [English](README.md), [português](./docs/README.
 
 ## Contents
 
-- [Agrofate]
+- [Agrofate](#submission-or-project-name)
   - [Contents](#contents)
   - [Short description](#short-description)
     - [What's the problem?](#whats-the-problem)
@@ -51,10 +51,9 @@ It's imperative that learning and creating can continue when educational institu
 
 ![Video transcription/translation app](./images/architecture.png)
 
-1. The user navigates to the site and uploads a video file.
-2. Watson Speech to Text processes the audio and extracts the text.
-3. Watson Translation (optionally) can translate the text to the desired language.
-4. The app stores the translated text as a document within Object Storage.
+1. The Weather Company API for daily and hourly weather forecast;
+2. IBM Cloud Foundry for database connection and requests;
+3. and IBM Db2 for data storage across the entire environment and application.
 
 ## Long description
 
@@ -75,11 +74,6 @@ Thinking about these problems, we’ve created a set of innovative solutions for
 2. and plan your crops in a personalized way.
 3. In addition, through our sensory equipment, we inform important data on acidity, moisture and soil nutrients.
 As a differential, in relation to competitors, we align recommendations regarding climate and soil, based on real data.
-
-Agrofate's technical architecture uses 3 IBM technologies:
-1. The Weather Company API for daily and hourly weather forecast;
-2. IBM Cloud Foundry for database connection and requests;
-3. and IBM Db2 for data storage across the entire environment and application.
 
 The freemium business model is the foundation of Agrofate. This allows for a greater recurrence and decreases the barrier of market entry. We have 3 subscription plans, free, basic and premium. In the premium plan, the family farmer can purchase our equipment and have full access to the app.
 
@@ -117,10 +111,6 @@ In this section you add the instructions to run your project on your local machi
 - [sample-angular-app](./sample-angular-app/)
 - [Explore other projects](https://github.com/upkarlidder/ibmhacks)
 
-## Live demo
-
-You can find a running system to test at [callforcode.mybluemix.net](http://callforcode.mybluemix.net/).
-
 ## Built with
 
 - [IBM DB2 Cloud](https://cloud.ibm.com/catalog/services/db2) - The MySQL database used
@@ -130,28 +120,12 @@ You can find a running system to test at [callforcode.mybluemix.net](http://call
 - [Flutter](https://flutter.dev/) - SDK, natively compiled applications for mobile, web, and desktop from a single codebase
 - Microcontroller and sensors - To detect crop ph and moisture in real time
 
-## Contributing
-
-Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on our code of conduct, and the process for submitting pull requests to us.
-
-## Versioning
-
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags).
-
 ## Authors
 
-![Authors](./images/Authors_Agrofate.jpg)
+<!-- ![Authors](./images/Authors_Agrofate.jpg) -->
 
 - **Alexandre Russi Jr.** - _UX & Mobile Development_ - [LinkedIn](https://www.linkedin.com/in/alexandrerussi/)
 - **Gabriel B. Cardoso** - _Mobile & Software Development_ - [LinkedIn](https://www.linkedin.com/in/gabriel-barbosa-cardoso-98b479a7/)
 - **Guilherme G. Guimarães** - _Business & Marketing_ - [LinkedIn](https://www.linkedin.com/in/guilhermegguimaraes/)
 - **Leonardo G. J. Gonçalez** - _Cloud Architect_ - [LinkedIn](https://www.linkedin.com/in/leonardo-gomes-jorge-gon%C3%A7alez-4910a7141/)
 - **Nathan de Moraes** - _Product Development_ - [LinkedIn](https://www.linkedin.com/in/nathan-de-moraes-aa6302143/)
-
-## License
-
-This project is licensed under the Apache 2 License - see the [LICENSE](LICENSE) file for details.
-
-## Acknowledgments
-
-- Based on [Billie Thompson's README template](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2).
