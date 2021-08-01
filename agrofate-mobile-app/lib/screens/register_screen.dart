@@ -28,7 +28,7 @@ class _RegisterScreenState extends State<RegisterScreen> {
     SharedPreferences prefs = await SharedPreferences.getInstance();    
     String parametros = "?nome="+nome+"&email="+email+"&senha="+senha;
     http.Response url_teste = await http.post(
-        "https://future-snowfall-319523.uc.r.appspot.com/create-login"+parametros);
+        "https://getstartedpython-sweet-hyrax-ht.mybluemix.net/create-login"+parametros);
     var response_login = url_teste.body;
     print(response_login);
     if(response_login == "Login cadastrado"){

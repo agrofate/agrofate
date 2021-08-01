@@ -41,7 +41,7 @@ class _CanteirosScreenState extends State<CanteirosScreen> {
 
     String parametros = "?id_usuario=" + _id_user;
     http.Response url_teste = await http.get(
-        "https://future-snowfall-319523.uc.r.appspot.com/read-one-canteiro" +
+        "https://getstartedpython-sweet-hyrax-ht.mybluemix.net/read-one-canteiro" +
             parametros);
     var response_login = jsonDecode(url_teste.body).asMap();
     canteiro_data = response_login;

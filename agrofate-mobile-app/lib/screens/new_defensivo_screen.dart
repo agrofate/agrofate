@@ -43,7 +43,7 @@ class _NewDefensivoScreenState extends State<NewDefensivoScreen> {
           _id_safra_escolhida = (prefs.getString('id_safra_atual') ?? ''); 
           String parametros = "?id_safra="+_id_safra_escolhida+"&nome_def="+nome_def+"&data_def="+data_def.toString()+"&marca_def="+marca_def;
           http.Response url_teste = await http.post(
-              "https://future-snowfall-319523.uc.r.appspot.com/insert-novo-defensivo"+parametros);
+              "https://getstartedpython-sweet-hyrax-ht.mybluemix.net/insert-novo-defensivo"+parametros);
           var response_login = url_teste.body;
           print(response_login);
           Navigator.push(

@@ -55,7 +55,7 @@ class _NewSafraScreenState extends State<NewSafraScreen> {
           _id_canteiro_escolhido =  (prefs.getString('id_canteiro_escolhido') ?? ''); 
           String parametros = "?id_canteiro="+_id_canteiro_escolhido+"&nome_safra="+nome_safra+"&data_safra="+data_safra.toString()+"&id_cultura="+tipo_cultura;
           http.Response url_teste = await http.post(
-              "https://future-snowfall-319523.uc.r.appspot.com/insert-nova-safra"+parametros);
+              "https://getstartedpython-sweet-hyrax-ht.mybluemix.net/insert-nova-safra"+parametros);
           var response_login = url_teste.body;
           print(response_login);
           Navigator.push(
@@ -87,7 +87,7 @@ class _NewSafraScreenState extends State<NewSafraScreen> {
 
   Future procuraCultura() async {
     http.Response url_teste = await http.get(
-        "https://future-snowfall-319523.uc.r.appspot.com/read-all-cultura");
+        "https://getstartedpython-sweet-hyrax-ht.mybluemix.net/read-all-cultura");
     var response_login = jsonDecode(url_teste.body);
     data_cultura = response_login;
     print(response_login);
