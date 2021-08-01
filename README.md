@@ -94,7 +94,7 @@ We are committed to the Sustainable Development Goals from the UN.
 
 2. **Goal 6 | Clean Water and Sanitation:** we recommend the amount of water required and the ideal time for crop irrigation, aiming at the conscious use of water resources.
 
-3. **Reduced Inequalities:** we develop truly accessible solutions aimed at family farmers, the class most affected by the lack of financial resources.
+3. **Goal 10 | Reduced Inequalities:** we develop truly accessible solutions aimed at family farmers, the class most affected by the lack of financial resources.
 
 **_Agrofate, developing a more conscious future._**
 
