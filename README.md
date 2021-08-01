@@ -143,11 +143,7 @@ We use [SemVer](http://semver.org/) for versioning. For the versions available, 
 
 ## Authors
 
-![Roadmap](./images/Authors_Agrofate.jpg)
-
-<a href="https://github.com/agrofate/agrofate/tree/main/images/Authors_Agrofate.png">
-  <img src="https://github.com/agrofate/agrofate/tree/main/images/Authors_Agrofate.png"/>
-</a>
+![Authors](./images/Authors_Agrofate.jpg)
 
 - **Alexandre Russi Jr.** - _Initial work_ - [LinkedIn](https://www.linkedin.com/in/alexandrerussi/)
 - **Gabriel B. Cardoso** - _Initial work_ - [LinkedIn](https://www.linkedin.com/in/gabriel-barbosa-cardoso-98b479a7/)
