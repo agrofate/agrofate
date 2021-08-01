@@ -36,9 +36,9 @@ class _DetailForecastScreenState extends State<DetailForecastScreen> {
   Future getWeatherHourly(data_atual) async {
     this.lat = '-23.5638291';
     this.long = '-46.007628';
-    this.codigo = '8508113bd018ec7a9708de6d57d2de9c';
+    this.codigo = '1bbf9714b9ac4babbf9714b9acebabca';
     http.Response response = await http.get(
-        "https://api.openweathermap.org/data/2.5/onecall?lat=${lat}&lon=${long}&exclude={current,minutely,alerts}&appid=${codigo}&lang=pt_br&units=metric");
+        "https://api.weather.com/v3/wx/forecast/hourly/2day?geocode=${lat},${long}&format=json&units=s&language=pt-BR&apiKey=${codigo}");
     var results = jsonDecode(response.body);
     var dia = [];
     var dia_espec = [];
