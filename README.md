@@ -10,7 +10,7 @@ _Read this in other languages: [English](README.md), [português](./docs/README.
 
 ## Contents
 
-- [Agrofate](#submission-or-project-name)
+- [Agrofate]
   - [Contents](#contents)
   - [Short description](#short-description)
     - [What's the problem?](#whats-the-problem)
@@ -45,7 +45,7 @@ It's imperative that learning and creating can continue when educational institu
 
 ## Demo video
 
-[![Watch the video](https://github.com/Call-for-Code/Liquid-Prep/blob/master/images/readme/IBM-interview-video-image.png)](https://youtu.be/vOgCOoy_Bx0)
+[![Watch the video](./images/thumb_video.jpg)](https://youtu.be/Vbqrms6CvsA)
 
 ## The architecture
 
