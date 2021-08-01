@@ -143,6 +143,8 @@ We use [SemVer](http://semver.org/) for versioning. For the versions available, 
 
 ## Authors
 
+![Roadmap](./images/Authors_Agrofate.jpg)
+
 <a href="https://github.com/agrofate/agrofate/tree/main/images/Authors_Agrofate.png">
   <img src="https://github.com/agrofate/agrofate/tree/main/images/Authors_Agrofate.png"/>
 </a>
