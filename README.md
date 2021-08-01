@@ -143,12 +143,11 @@ We use [SemVer](http://semver.org/) for versioning. For the versions available, 
 
 ## Authors
 
-<a href="https://github.com/Call-for-Code/Project-Sample/graphs/contributors">
-  <img src="https://contributors-img.web.app/image?repo=Call-for-Code/Project-Sample" />
-  
-  - **Alexandre Russi Jr.** - _Initial work_ - [LinkedIn](https://www.linkedin.com/in/alexandrerussi/)
+<a href="https://github.com/agrofate/agrofate/tree/main/images/Authors_Agrofate.jpg">
+  <img src="https://github.com/agrofate/agrofate/tree/main/images/Authors_Agrofate.jpg" />
 </a>
 
+- **Alexandre Russi Jr.** - _Initial work_ - [LinkedIn](https://www.linkedin.com/in/alexandrerussi/)
 - **Gabriel B. Cardoso** - _Initial work_ - [LinkedIn](https://www.linkedin.com/in/gabriel-barbosa-cardoso-98b479a7/)
 - **Guilherme G. Guimarães** - _Initial work_ - [LinkedIn](https://www.linkedin.com/in/guilhermegguimaraes/)
 - **Leonardo G. J. Gonçalez** - _Initial work_ - [LinkedIn](https://www.linkedin.com/in/leonardo-gomes-jorge-gon%C3%A7alez-4910a7141/)
