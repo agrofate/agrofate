@@ -107,7 +107,7 @@ First, we want to deploy our MVP application in partnership with some green belt
 In the second phase, we will implement our own system for climate change, bringing more precision and security to the farmer, with the issuance of alerts based on **IBM Push Notifications**.
 
 
-<!-- ![Roadmap](./images/roadmap.jpg) -->
+![Roadmap](./images/roadmap.jpg)
 
 ## Getting started
 
