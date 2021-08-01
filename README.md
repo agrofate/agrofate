@@ -93,7 +93,7 @@ We develop truly accessible solutions aimed at family farmers, the class most af
 
 Currently, the MVP is being installed and tested on a family farm located in the metropolitan region of São Paulo, Brazil.
 
-## Agrofate, developing a more conscious future.
+[Agrofate, developing a more conscious future.]
 
 
 [More detail is available here](./docs/DESCRIPTION.md)
@@ -126,8 +126,8 @@ You can find a running system to test at [callforcode.mybluemix.net](http://call
 
 ## Built with
 
-- [IBM Cloudant](https://cloud.ibm.com/catalog?search=cloudant#search_results) - The NoSQL database used
-- [IBM Cloud Functions](https://cloud.ibm.com/catalog?search=cloud%20functions#search_results) - The compute platform for handing logic
+- [IBM DB2 Cloud](https://cloud.ibm.com/catalog/services/db2) - The MySQL database used
+- [IBM Cloud Foundry](https://cloud.ibm.com/login?redirect=%2Fcloudfoundry%2Foverview) - Connection and requests with database
 - [IBM API Connect](https://cloud.ibm.com/catalog?search=api%20connect#search_results) - The web framework used
 - [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
 - [Maven](https://maven.apache.org/) - Dependency management
@@ -147,7 +147,11 @@ We use [SemVer](http://semver.org/) for versioning. For the versions available, 
   <img src="https://contributors-img.web.app/image?repo=Call-for-Code/Project-Sample" />
 </a>
 
-- **Billie Thompson** - _Initial work_ - [PurpleBooth](https://github.com/PurpleBooth)
+- **Alexandre Russi Jr.** - _Initial work_ - [LinkedIn](https://www.linkedin.com/in/alexandrerussi/)
+- **Gabriel B. Cardoso** - _Initial work_ - [LinkedIn](https://www.linkedin.com/in/gabriel-barbosa-cardoso-98b479a7/)
+- **Guilherme G. Guimarães ** - _Initial work_ - [LinkedIn](https://www.linkedin.com/in/guilhermegguimaraes/)
+- **Leonardo G. J. Gonçalez** - _Initial work_ - [LinkedIn](https://www.linkedin.com/in/leonardo-gomes-jorge-gon%C3%A7alez-4910a7141/)
+- **Nathan de Moraes** - _Initial work_ - [LinkedIn](https://www.linkedin.com/in/nathan-de-moraes-aa6302143/)
 
 ## License
 
