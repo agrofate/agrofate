@@ -1,6 +1,6 @@
 # Agrofate
 
-[![Website](https://img.shields.io/badge/View-Website-blue)](https://sample-project.s3-web.us-east.cloud-object-storage.appdomain.cloud/)
+<!-- [![Website](https://img.shields.io/badge/View-Website-blue)](https://sample-project.s3-web.us-east.cloud-object-storage.appdomain.cloud/) -->
 
 Agrofate, a precision farming project aiming to develop accessible technologies for family farmer producers.
 
