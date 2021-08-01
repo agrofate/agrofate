@@ -109,12 +109,6 @@ See below for our proposed schedule on next steps after Call for Code 2021 submi
 
 ## Getting started
 
-In this section you add the instructions to run your project on your local machine for development and testing purposes. You can also add instructions on how to deploy the project in production.
-
-- [sample-react-app](./sample-react-app/)
-- [sample-angular-app](./sample-angular-app/)
-- [Explore other projects](https://github.com/upkarlidder/ibmhacks)
-
 **Prerequisite**
 - Register for an IBM Cloud account.
 - Request a Weather Company API key
@@ -133,7 +127,6 @@ In this section you add the instructions to run your project on your local machi
 05. Building packages:<br />
 <code>flutter build --no-sound-null-safety</code>
 
-_MicroController_<br />
 06. After installed the Arduino IDE, open the Microcontroller_Code_Agrofate.ino (https://github.com/agrofate/agrofate/blob/main/agrofate-microcontroller/Microcontroller_Code_Agrofate.ino)
 07. Change the Wifi name and password with your local data<br />
 <code>const char* ssid = "WIFI_name";</code><br />
