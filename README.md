@@ -9,11 +9,6 @@ Agrofate, a precision farming project aiming to develop accessible technologies 
 > LinkedIn: https://www.linkedin.com/company/74055018/admin/ <br/>
 > Youtube Channel: https://www.youtube.com/channel/UCj8wCBdpc1-SblYblmI_CnA
 
-
-<!-- > If you're new to open source, please consider taking the [free "Introduction to Open Source" class](https://cognitiveclass.ai/courses/introduction-to-open-source). -->
-
-_Read this in other languages: [English](README.md), [português](./docs/README.pt_br.md)._
-
 ## Contents
 
 - [Short description](#short-description)
@@ -102,7 +97,7 @@ Currently, the project has the following functionalities in operation:
 - Create and change gantry;
 - Create and change crops;
 - Create and change fertilizers;
-- Create and change pesticides;
+- Create and change defensives;
 - Registration in time of ph values and soil moisture;
 - The **IBM Cloud Foundry** app connects with the **IBM DB2** and register the real time data;
 - Get the data from the **Weather Company API** and shows on app daily and hourly forecast.
