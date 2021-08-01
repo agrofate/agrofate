@@ -28,7 +28,7 @@ void loop(){
     
   if(WiFi.status()== WL_CONNECTED){
    HTTPClient http;
-   http.begin("https://future-snowfall-319523.uc.r.appspot.com/insert-historico-sensor?chipid="+String(chipID)+"&humidade="+String(analogRead(humiditySensor))+"&ph="+String(analogRead(phSensor)));
+   http.begin("https://getstartedpython-sweet-hyrax-ht.mybluemix.net/insert-historico-sensor?chipid="+String(chipID)+"&humidade="+String(analogRead(humiditySensor))+"&ph="+String(analogRead(phSensor)));
    http.addHeader("Content-Type", "application/x-www-form-urlencoded");
    int httpResponseCode = http.POST("0");
    
