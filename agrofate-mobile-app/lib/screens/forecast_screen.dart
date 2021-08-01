@@ -50,17 +50,10 @@ class _ForecastScreenState extends State<ForecastScreen> {
   Future getWeather() async {
     this.lat = '-23.5638291';
     this.long = '-46.007628';
-    this.codigo = '8508113bd018ec7a9708de6d57d2de9c';
+    this.codigo = '1bbf9714b9ac4babbf9714b9acebabca';
     http.Response response = await http.get(
-        "https://api.openweathermap.org/data/2.5/weather?lat=${lat}&lon=${long}&lang=pt_br&units=metric&appid=${codigo}");
+        "https://api.weather.com/v3/wx/forecast/daily/7day?geocode=${lat},${long}&format=json&units=s&language=pt-BR&apiKey=${codigo}");
     var results = jsonDecode(response.body);
-
-    /*http.Response forecast = await http.get(
-        "https://api.openweathermap.org/data/2.5/forecast?lat=${lat}&lon=${long}&lang=pt_br&units=metric&appid=${codigo}");
-    forecast_data = jsonDecode(forecast.body);*/
-
-    http.Response forecast = await http.get(
-        "https://api.openweathermap.org/data/2.5/onecall?lat=${lat}&lon=${long}&exclude={current,minutely,hourly,alerts}&appid=${codigo}&lang=pt_br&units=metric");
     forecast_data = jsonDecode(forecast.body);
 
     setState(() {
