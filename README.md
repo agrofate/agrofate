@@ -93,10 +93,7 @@ We develop truly accessible solutions aimed at family farmers, the class most af
 
 Currently, the MVP is being installed and tested on a family farm located in the metropolitan region of São Paulo, Brazil.
 
-[Agrofate, developing a more conscious future.]
-
-
-[More detail is available here](./docs/DESCRIPTION.md)
+**Agrofate, developing a more conscious future.**
 
 ## Project roadmap
 
