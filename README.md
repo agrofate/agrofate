@@ -135,10 +135,10 @@ In this section you add the instructions to run your project on your local machi
 
 _MicroController_<br />
 06. After installed the Arduino IDE, open the Microcontroller_Code_Agrofate.ino (https://github.com/agrofate/agrofate/blob/main/agrofate-microcontroller/Microcontroller_Code_Agrofate.ino)
-7. Change the Wifi name and password with your local data<br />
+07. Change the Wifi name and password with your local data<br />
 <code>const char* ssid = "WIFI_name";</code><br />
 <code>const char* password =  "WIFI_password";</code>
-9. Connect the microcontroller (Esp32, arduino, etc) in your notebook or pc and compile the code.
+08. Connect the microcontroller (Esp32, arduino, etc) in your notebook or pc and compile the code.
 
 ## Built with
 
