@@ -32,7 +32,7 @@ Agrofate, a precision farming project aiming to develop accessible technologies 
 
 ### What's the problem?
 
-Weather forecasting, irrigation and soil quality are very important characteristics for family farmers to develop their plantations efficiently. However, they don't have all this information quickly and accurately whenever they need it.
+Weather forecasting, irrigation and soil quality are very important characteristics for family farmers to develop their plantations efficiently. However, they don't have all this information quickly and accurately whenever they need it. This influences the excessive use of water, causing great waste, because the producers do not have the tools to base themselves on the really necessary amount of water resource.
 
 ### How can technology help?
 
