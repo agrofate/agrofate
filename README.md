@@ -55,11 +55,13 @@ With this, the farmer can rely on this information and control the use of water 
 
 ## Long description
 
-Agricultural production is directly influenced by sun, rain, wind and temperature. Thus, climate change impacts agricultural processes on the planet.
+Agricultural production is directly influenced by sun, rain, wind and temperature. Therefore, **climate change impacts agricultural processes on the planet**. However, what not everyone realizes is that agriculture also influences temperatures on Earth.
 
-However, what not everyone realizes is that agriculture also influences temperatures on Earth.
+**Agriculture is responsible for consuming 70% of the world's water resources**. Poorly executed irrigations and lack of control over the amount of water used are behind the reckless use of fresh water.
 
-Agriculture is responsible for consuming 70% of the world's water resources.
+Furthermore, 35 million people do not have access to safe drinking water in Brazil, an emerging and unequal country. This scenario is repeated in several countries around the world and Agrofate comes to the market to make a difference and help fight inequality.
+
+With the increase in the world population, the **demand for food tends to grow exponentially**. In addition, agribusiness moves more than 7.8 trillion dollars in the world, being one of the main sectors to fight hunger on the planet.
 
 Talking to some family farmers in São Paulo, we’ve identified some of the most common problems of small producers:
 
@@ -67,10 +69,12 @@ Talking to some family farmers in São Paulo, we’ve identified some of the mos
 2. The alteration and lack of control of soil moisture, pH and nutrients cause the harvest to generate losses;
 3. Finally, ineffective planning of fertilizer and defensive application.
 
-Thinking about these problems, we’ve created a set of innovative solutions for these family farmers.With our mobile app the producer will be able to view the:
-1. detailed weather forecasting, recommendations for better decision-making;
-2. and plan your crops in a personalized way.
+Thinking about these problems, we’ve created a set of innovative solutions for these family farmers. With our mobile app the producer will be able to view the:
+
+1. Detailed weather forecasting, recommendations for better decision-making;
+2. Plan your crops in a personalized way.
 3. In addition, through our sensory equipment, we inform important data on acidity, moisture and soil nutrients.
+
 As a differential, in relation to competitors, we align recommendations regarding climate and soil, based on real data.
 
 The freemium business model is the foundation of Agrofate. This allows for a greater recurrence and decreases the barrier of market entry. We have 3 subscription plans, free, basic and premium. In the premium plan, the family farmer can purchase our equipment and have full access to the app.
