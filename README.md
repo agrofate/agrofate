@@ -54,7 +54,7 @@ As a differential, in relation to competitors, we align recommendations regardin
 
 1. The Weather Company API for daily and hourly weather forecast;
 2. IBM Cloud Foundry for database connection and requests;
-3. and IBM Db2 for data storage across the entire environment and application.
+3. IBM Db2 for data storage across the entire environment and application.
 
 ## Long description
 
