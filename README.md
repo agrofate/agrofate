@@ -5,7 +5,9 @@
 Agrofate, a precision farming project aiming to develop accessible technologies for family farmer producers.
 
 > Contact: agrofateoficial@gmail.com <br/>
-> Instagram: https://www.instagram.com/agrofate
+> Instagram: https://www.instagram.com/agrofate <br/>
+> LinkedIn: https://www.linkedin.com/company/74055018/admin/ <br/>
+> Youtube Channel: https://www.youtube.com/channel/UCj8wCBdpc1-SblYblmI_CnA
 
 
 <!-- > If you're new to open source, please consider taking the [free "Introduction to Open Source" class](https://cognitiveclass.ai/courses/introduction-to-open-source). -->
@@ -35,7 +37,7 @@ _Read this in other languages: [English](README.md), [português](./docs/README.
 
 ### What's the problem?
 
-Part of the World Health Organization's guidance on limiting further spread of COVID-19 is to practice social distancing. As a result, schools in most affected areas are taking precautionary measures by closing their facilities. With school-aged children at home for an indeterminate amount of time, keeping them engaged, entertained, and on top of their education is important.
+Weather forecasting, irrigation and soil quality are very important characteristics for family farmers to develop their plantations efficiently. However, they don't have all this information quickly and accurately whenever they need it.
 
 ### How can technology help?
 
