@@ -131,7 +131,13 @@ See below for our proposed schedule on next steps after Call for Code 2021 submi
 07. Change the Wifi name and password with your local data<br />
 <code>const char* ssid = "WIFI_name";</code><br />
 <code>const char* password =  "WIFI_password";</code>
-08. Connect the microcontroller (Esp32, arduino, etc) in your notebook or pc and compile the code.
+08. Connect the microcontroller (Esp32, arduino, etc) in your notebook or pc
+09. Connect the ph and humidity sensors to the microcontroller and compile the code
+10. Wait the code get compiled and go to your mobile app
+11. If you don't have a registered email, click on the "Cadastrar" button and create an account. If you have already registered, enter login and password and click on "Login"
+12. The "Previsão" screen shows temperature, humidity and wind speed values by day and hour
+13. In the "Canteiros" screen, you can create new records and add crops, fertilizers and defensives, as well as consult the history of all these records
+14. In the "Dados" screen you will see the recorded pH and humidity values of the sensors connected to the microcontroller
 
 ## Built with
 
