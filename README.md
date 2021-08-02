@@ -9,7 +9,7 @@ Agrofate, a precision farming project aiming to develop accessible technologies 
 > LinkedIn: https://www.linkedin.com/company/74055018/admin/ <br/>
 > Youtube Channel: https://www.youtube.com/channel/UCj8wCBdpc1-SblYblmI_CnA
 
-*Read this in other languages: [English](../README.md), [português](README.pt_br.md).*
+*Read this in other languages: [English](README.md), [português](./docs/README.pt_br.md).*
 
 ## Contents
 
