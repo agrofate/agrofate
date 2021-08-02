@@ -9,6 +9,8 @@ Agrofate, a precision farming project aiming to develop accessible technologies 
 > LinkedIn: https://www.linkedin.com/company/74055018/admin/ <br/>
 > Youtube Channel: https://www.youtube.com/channel/UCj8wCBdpc1-SblYblmI_CnA
 
+*Read this in other languages: [English](../README.md), [português](README.pt_br.md).*
+
 ## Contents
 
 - [Short description](#short-description)
@@ -79,7 +81,7 @@ Talking to some family farmers in São Paulo, we’ve identified some of the mos
 Thinking about these problems, we’ve created a set of innovative solutions for these family farmers. With our mobile app the producer will be able to view the:
 
 1. Detailed weather forecasting, recommendations for better decision-making;
-2. Plan your crops in a personalized way.
+2. Planning your crops in a personalized way;
 3. In addition, through our sensory equipment, we inform important data on acidity, moisture and soil nutrients.
 
 As a differential, in relation to competitors, we align recommendations regarding climate and soil, based on real data.
