@@ -166,7 +166,7 @@ Agrofate created the app and the MVP is being installed and tested on a family f
 
 ## Authors
 
-<!-- ![Authors](./images/Authors_Agrofate.jpg) -->
+<!-- ![Authors](./images/Authors_Agrofate.jpg) --->
 
 - **Alexandre Russi Jr.** - _UX & Mobile Development_ - [LinkedIn](https://www.linkedin.com/in/alexandrerussi/)
 - **Gabriel B. Cardoso** - _Mobile & Software Development_ - [LinkedIn](https://www.linkedin.com/in/gabriel-barbosa-cardoso-98b479a7/)
