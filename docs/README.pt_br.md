@@ -9,7 +9,7 @@ Agrofate, um projeto de agricultura de precisão com o objetivo de desenvolver t
 > LinkedIn: https://www.linkedin.com/company/74055018/admin/ <br/>
 > Canal do Youtube: https://www.youtube.com/channel/UCj8wCBdpc1-SblYblmI_CnA
 
-*Read this in other languages: [English](../README.md), [português](README.pt_br.md).*
+*Leia isso em outros idiomas: [English](../README.md), [português](README.pt_br.md).*
 
 ## Conteúdos
 
