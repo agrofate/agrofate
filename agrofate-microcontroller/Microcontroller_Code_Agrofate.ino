@@ -8,7 +8,6 @@ uint32_t humiditySensor = 13;
 uint32_t phSensor = 14;
   
 void setup(){
-
   pinMode(humiditySensor, INPUT);
   pinMode(phSensor, INPUT);
   Serial.begin(115200);
