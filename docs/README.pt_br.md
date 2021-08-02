@@ -117,7 +117,7 @@ Primeiro, queremos implantar nosso MVP em parceria com alguns agricultores famil
 Na segunda fase, implementaremos nosso próprio sistema para mudanças climáticas, trazendo mais precisão e segurança ao agricultor, com a emissão de alertas utilizando o **IBM Push Notifications**.
 
 
-![Roadmap](./images/roadmap.jpg)
+![Roadmap](../images/roadmap.jpg)
 
 ## Getting started
 
